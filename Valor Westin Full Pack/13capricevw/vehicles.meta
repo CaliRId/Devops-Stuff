@@ -3,11 +3,11 @@
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
   <InitDatas>
-   <Item>
-      <modelName>18chargervs</modelName>
-      <txdName>18chargervs</txdName>
-      <handlingId>18chargervs</handlingId>
-      <gameName>18chargervs</gameName>
+    <Item>
+      <modelName>13capricevw</modelName>
+      <txdName>13capricevw</txdName>
+      <handlingId>13capricevw</handlingId>
+      <gameName>13capricevw</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>WINDSOR</audioNameHash>
+      <audioNameHash>SENTINEL</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>BUFFALO_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -94,7 +94,7 @@
       <flags>FLAG_LAW_ENFORCEMENT FLAG_EMERGENCY_SERVICE FLAG_NO_RESPRAY FLAG_DONT_SPAWN_IN_CARGEN FLAG_REPORT_CRIME_IF_STANDING_ON FLAG_HAS_LIVERY FLAG_EXTRAS_STRONG FLAG_EXTRAS_REQUIRE</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
-	  <dashboardType>VDT_RACE</dashboardType>
+	  <dashboardType>VDT_GENTAXI</dashboardType>
       <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_MUSCLE</wheelType>
       <trailers />
