@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
  <Sirens>
     <Item>
-      <id value="532864176529"/>
-      <name>18chargervs</name>
+      <id value="9999888111662"/>
+      <name>18taurusvw</name>
       <timeMultiplier value="1.00000000"/>
       <lightFalloffMax value="150" />
       <lightFalloffExponent value="150" />
@@ -19,15 +19,15 @@
         <sequencer value="0"/>
       </rightHeadLight>
       <leftTailLight>
-        <sequencer value="0"/>
+        <sequencer value="16711935"/>
       </leftTailLight>
       <rightTailLight>
-        <sequencer value="0"/>
+        <sequencer value="4278255360"/>
       </rightTailLight>
       <leftHeadLightMultiples value="1"/>
       <rightHeadLightMultiples value="1"/>
-      <leftTailLightMultiples value="1"/>
-      <rightTailLightMultiples value="1"/>
+      <leftTailLightMultiples value="2"/>
+      <rightTailLightMultiples value="2"/>
       <useRealLights value="true"/>
       <sirens>
       <!-- siren1 -->
@@ -702,7 +702,7 @@
             <delta value="0.00000000"/>
             <start value="0.00000000"/>
             <speed value="1.00000000"/>
-            <sequencer value="4042322160"/>
+            <sequencer value="11403438"/>
             <multiples value="1"/>
             <direction value="false"/>
             <syncToBpm value="true"/>
@@ -711,7 +711,7 @@
             <delta value="0.00000000"/>
             <start value="0.50000000"/>
             <speed value="1.00000000"/>
-            <sequencer value="4042322160"/>
+            <sequencer value="11403438"/>
             <multiples value="1"/>
             <direction value="true"/>
             <syncToBpm value="true"/>
@@ -739,7 +739,7 @@
             <delta value="0.00000000"/>
             <start value="0.00000000"/>
             <speed value="1.00000000"/>
-            <sequencer value="252645135"/>
+            <sequencer value="2919280128"/>
             <multiples value="1"/>
             <direction value="false"/>
             <syncToBpm value="true"/>
@@ -748,7 +748,7 @@
             <delta value="0.00000000"/>
             <start value="0.50000000"/>
             <speed value="1.00000000"/>
-            <sequencer value="252645135"/>
+            <sequencer value="2919280128"/>
             <multiples value="2"/>
             <direction value="true"/>
             <syncToBpm value="true"/>

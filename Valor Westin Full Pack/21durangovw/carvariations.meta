@@ -2,7 +2,7 @@
 <CVehicleModelInfoVariation>
 	<variationData>
 	  <Item>
-		 <modelName>18chargervs</modelName>
+		 <modelName>21durangovw</modelName>
 		 <colors>
 			<Item>
 			   <indices content="char_array">
@@ -17,7 +17,7 @@
 			</Item>
 		 </colors>
 		 <kits>
-			<Item>0_default_modkit</Item>
+			<Item>777_valordurango_modkit</Item>
 		 </kits>
 		 <windowsWithExposedEdges />
 		 <plateProbabilities>
@@ -29,7 +29,7 @@
 			</Probabilities>
 		 </plateProbabilities>
 		 <lightSettings value="1" />
-		 <sirenSettings value="532864176529" />
+		 <sirenSettings value="55111111998" />
 	  </Item>
 	</variationData>
 </CVehicleModelInfoVariation>

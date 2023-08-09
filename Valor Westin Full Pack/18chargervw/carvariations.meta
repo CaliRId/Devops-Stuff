@@ -2,7 +2,7 @@
 <CVehicleModelInfoVariation>
 	<variationData>
 	  <Item>
-		 <modelName>18chargervs</modelName>
+		 <modelName>18chargervw</modelName>
 		 <colors>
 			<Item>
 			   <indices content="char_array">
@@ -17,7 +17,7 @@
 			</Item>
 		 </colors>
 		 <kits>
-			<Item>0_default_modkit</Item>
+			<Item>409_valor_modkit</Item>
 		 </kits>
 		 <windowsWithExposedEdges />
 		 <plateProbabilities>

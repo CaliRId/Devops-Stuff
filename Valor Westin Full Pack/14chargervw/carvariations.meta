@@ -2,7 +2,7 @@
 <CVehicleModelInfoVariation>
 	<variationData>
 	  <Item>
-		 <modelName>18chargervs</modelName>
+		 <modelName>14chargervw</modelName>
 		 <colors>
 			<Item>
 			   <indices content="char_array">
@@ -17,7 +17,7 @@
 			</Item>
 		 </colors>
 		 <kits>
-			<Item>0_default_modkit</Item>
+			<Item>719_valor_modkit</Item>
 		 </kits>
 		 <windowsWithExposedEdges />
 		 <plateProbabilities>
@@ -29,7 +29,7 @@
 			</Probabilities>
 		 </plateProbabilities>
 		 <lightSettings value="1" />
-		 <sirenSettings value="532864176529" />
+		 <sirenSettings value="5144891333333" />
 	  </Item>
 	</variationData>
 </CVehicleModelInfoVariation>

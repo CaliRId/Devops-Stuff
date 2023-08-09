@@ -3,7 +3,7 @@
  <Sirens>
     <Item>
       <id value="532864176529"/>
-      <name>18chargervs</name>
+      <name>18chargervw</name>
       <timeMultiplier value="1.00000000"/>
       <lightFalloffMax value="150" />
       <lightFalloffExponent value="150" />
@@ -26,8 +26,8 @@
       </rightTailLight>
       <leftHeadLightMultiples value="1"/>
       <rightHeadLightMultiples value="1"/>
-      <leftTailLightMultiples value="1"/>
-      <rightTailLightMultiples value="1"/>
+      <leftTailLightMultiples value="2"/>
+      <rightTailLightMultiples value="2"/>
       <useRealLights value="true"/>
       <sirens>
       <!-- siren1 -->

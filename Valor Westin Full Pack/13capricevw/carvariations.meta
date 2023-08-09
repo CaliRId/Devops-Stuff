@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVariation>
 	<variationData>
-	  <Item>
-		 <modelName>18chargervs</modelName>
+	 	  <Item>
+		 <modelName>13capricevw</modelName>
 		 <colors>
 			<Item>
 			   <indices content="char_array">
@@ -17,7 +17,7 @@
 			</Item>
 		 </colors>
 		 <kits>
-			<Item>0_default_modkit</Item>
+			<Item>810_valorc_modkit</Item>
 		 </kits>
 		 <windowsWithExposedEdges />
 		 <plateProbabilities>
@@ -29,7 +29,7 @@
 			</Probabilities>
 		 </plateProbabilities>
 		 <lightSettings value="1" />
-		 <sirenSettings value="532864176529" />
+		 <sirenSettings value="5144891333333" />
 	  </Item>
 	</variationData>
 </CVehicleModelInfoVariation>

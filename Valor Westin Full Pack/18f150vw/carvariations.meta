@@ -2,22 +2,22 @@
 <CVehicleModelInfoVariation>
 	<variationData>
 	  <Item>
-		 <modelName>18chargervs</modelName>
+		 <modelName>18f150vw</modelName>
 		 <colors>
 			<Item>
 			   <indices content="char_array">
-				  134
-				  134
-				  134
-				  29
-				  53
-				  54
+				  0
+				  70
+				  0
+				  0
+				  0
+				  0
 			   </indices>
 			   <liveries />
 			</Item>
 		 </colors>
 		 <kits>
-			<Item>0_default_modkit</Item>
+			<Item>931_westinf150_modkit</Item>
 		 </kits>
 		 <windowsWithExposedEdges />
 		 <plateProbabilities>
@@ -28,8 +28,8 @@
 			   </Item>
 			</Probabilities>
 		 </plateProbabilities>
-		 <lightSettings value="1" />
-		 <sirenSettings value="532864176529" />
+		 <lightSettings value="2" />
+		 <sirenSettings value="3722134049239" />
 	  </Item>
 	</variationData>
 </CVehicleModelInfoVariation>

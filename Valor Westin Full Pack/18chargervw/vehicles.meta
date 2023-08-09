@@ -3,11 +3,11 @@
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
   <InitDatas>
-   <Item>
-      <modelName>18chargervs</modelName>
-      <txdName>18chargervs</txdName>
-      <handlingId>18chargervs</handlingId>
-      <gameName>18chargervs</gameName>
+  <Item>
+      <modelName>18chargervw</modelName>
+      <txdName>18chargervw</txdName>
+      <handlingId>charger</handlingId>
+      <gameName>18chargervw</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
