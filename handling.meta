@@ -56,7 +56,7 @@
        <SubHandlingData>
 		<Item type="CVehicleWeaponHandlingData">
           <uWeaponHash>
-            <Item>VEHICLE_WEAPON_TURRET_BTR4E_LETHAL<Item>
+            <Item>VEHICLE_WEAPON_TURRET_BTR4E_LETHAL</Item>
           </uWeaponHash>
           <WeaponSeats content="int_array">
             4 
